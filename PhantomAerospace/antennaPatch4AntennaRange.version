@@ -1,0 +1,18 @@
+{
+	"NAME":"antennaPatch4AntennaRange",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=226",
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":4
+	}
+}
+
